@@ -1,0 +1,13 @@
+
+{
+  "crons": [
+    {
+      "path": "/api/news",
+      "schedule": "0 4 * * *"
+    },
+    {
+      "path": "/api/news",
+      "schedule": "0 16 * * *"
+    }
+  ]
+}
